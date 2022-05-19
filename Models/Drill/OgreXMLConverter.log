@@ -1,0 +1,20 @@
+17:58:21: Creating resource group General
+17:58:21: Creating resource group OgreInternal
+17:58:21: Creating resource group OgreAutodetect
+17:58:21: Registering ResourceManager for type Mesh
+17:58:21: Registering ResourceManager for type Material
+17:58:21: Registering ResourceManager for type Skeleton
+17:58:21: XMLSkeletonSerializer: reading XML data from /home/berry/Desktop/CIS5012/Models/Drill/Drill.skeleton.xml...
+17:58:21: XMLSkeletonSerializer: Reading Bones name...
+17:58:21: XMLSkeletonSerializer: Reading Hierarchy data...
+17:58:21: XMLSkeletonSerializer: Reading Bones data...
+17:58:21: XMLSkeletonSerializer: Reading Animations data...
+17:58:21: XMLSkeletonSerializer: Finished. Running SkeletonSerializer...
+17:58:21: Exporting bones..
+17:58:21: Bones exported.
+17:58:21: Exporting animations, count=1
+17:58:21: Exporting animation: my_animation
+17:58:21: Animation exported.
+17:58:21: Unregistering ResourceManager for type Skeleton
+17:58:21: Unregistering ResourceManager for type Material
+17:58:21: Unregistering ResourceManager for type Mesh
